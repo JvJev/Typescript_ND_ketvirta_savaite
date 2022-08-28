@@ -1,0 +1,2 @@
+# Typescript_ND_ketvirta_savaite
+# Typescript_ND_ketvirta_savaite
